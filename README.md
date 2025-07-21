@@ -21,7 +21,7 @@ Projeto simples feito para fins de prática.
 
 ---
 
-# Naive Bayes
+# Previsão da espécie de flor
 
 Usando o algoritmo naive bayes para prever o tipo de flor
 
