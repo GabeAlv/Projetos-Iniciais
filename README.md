@@ -19,3 +19,14 @@ OBS: O arquivo `Lista_de_tarefas.json` será criado automaticamente ao sair do p
 
 Projeto simples feito para fins de prática.
 
+---
+
+# Naive Bayes
+
+Usando o algoritmo naive bayes para prever o tipo de flor
+
+### Como executar:
+1. baixe o script e a base de dados.
+2. Instale as bibliotecas necessarias (numpy, pandas, scikit-learn, matplotlib).
+3. coloque a base dados iris.csv no msm diretorio do seu script.
+4. rode o script e se quiser faça suas alterações.
